@@ -1,0 +1,29 @@
+@charset
+/* 共通部分 
+---------------------*/
+html{
+  font-size: 100%;
+}
+body{
+  font-family: "Yu Gothic Medium","游ゴシック Medium", YuGothic, "游ゴシック体",sans-serif;
+  line-height: 1.7;
+  color: black;
+}
+a{
+  text-decoration: none;
+}
+img{
+  max-width: 100%;
+}
+/* HEADER 
+----------------------*/
+.logo{
+  width: 340px;
+  margin-top: 14px;
+}
+.btn-info{
+  background-color: #9944cc;
+}
+.btn-cart{
+  background-color: #9944cc;
+}
