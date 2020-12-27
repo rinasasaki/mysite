@@ -75,3 +75,23 @@ ul li {
   -ms-transform: scale(1, 1);
   transform: scale(1, 1)
 }
+
+.baner{
+  color: #fff;
+  background-color: #333;
+}
+.lineup{
+  color: #fff;
+  background-color: #333;
+}
+.video{
+  color: #fff;
+  background-color: #333;
+}
+.service{
+  color: #fff;
+  background-color: #333;
+}
+.priceless{
+  background-color: #333;
+}
