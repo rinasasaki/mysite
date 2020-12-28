@@ -84,14 +84,26 @@ ul li {
   color: #fff;
   background-color: #333;
 }
+.goods{
+  background:blue;
+}
 .video{
   color: #fff;
   background-color: #333;
+}
+.shiyou{
+  background: blue;
 }
 .service{
   color: #fff;
   background-color: #333;
 }
+.syoukai{
+  background: blue;
+}
 .priceless{
+  background-color: #333;
+}
+.question{
   background-color: #333;
 }
