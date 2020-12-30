@@ -21,6 +21,10 @@ img{
 
 /* HEADER 
 ----------------------*/
+.logo img {
+  width: 100%;
+  height: auto;
+  }
 ul.topnav {
 	overflow: hidden;
 	margin: 0;
@@ -54,6 +58,12 @@ ul.topnav li.right {
 }
 /* BODY
 -----------------*/
+.priceless img{
+    width: 100%;
+    height: 300px;
+    object-position: bottom;
+    object-fit: cover
+}
 .content{
     line-height: 1.6;
     margin: 0 auto;
