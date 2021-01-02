@@ -63,6 +63,7 @@ ul.topnav li.right {
     height: 300px;
     object-position: bottom;
     object-fit: cover
+    
 }
 .content{
     line-height: 1.6;
@@ -78,11 +79,17 @@ ul.topnav li.right {
   font-family: serif;
 }
 
-.service{
-  text-align: center;
+.gori{
+  margin-top: 10%;
 }
-.serimg{
-  margin : 0 auto
+
+.grid{
+  display: grid;
+  gap: 26px;
+  grid-template-columns: repeat(auto-fit, minmax(240px,1fr));
+  margin-top: 6%;
+  margin-bottom: 50px;
+  font-size: large;
 }
 .question{
   padding: 30px;
